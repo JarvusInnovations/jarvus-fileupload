@@ -1,5 +1,5 @@
 /*jslint browser: true, undef: true *//*global Ext,FormData*/
-Ext.define('Jarvus.uploadbox.UploadBox', {
+Ext.define('Jarvus.fileupload.UploadBox', {
     extend: 'Ext.Component',
     xtype: 'jarvus-uploadbox',
     requires: [
